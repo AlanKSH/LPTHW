@@ -1,0 +1,60 @@
+print 
+
+#-*- coding: utf-8 -*-
+
+#
+
+print 
+
+% 取余
+
+PEMDAS:priorty of calculation
+
+/ 除法，丢掉小数部分
+
+variable
+
+round() 四舍五入
+
+string 
+%r %d %s
+
+, used to connect two lines
+
+print """
+"""
+print everything between """ """
+
+\back-slash
+escape sequences:
+\\
+\n
+\t 
+
+raw_input("")
+int(raw_input())
+
+python -m pydoc XXX
+查看文档信息
+
+from sys import argv 
+引入参数
+script, XXX, xxx = argv
+解包
+python ex.py argument1 argument2 argument3
+
+txt = open(filename,"w/r/a+")  打开文件 ""是不同的打开方式
+txt.read() 输出文件
+close 关闭
+readline 逐行读,先扫描到\n ，然后逐行读，运行一次往下一行移动
+truncate 清空文件
+write(stuff) 将stuff写入文件
+seek(0) 回到文件开头
+ 
+len()
+
+def xxx():
+	pass 
+	
+return
+	
