@@ -1,2 +1,3 @@
 # LPTHW
-learn Python the Hard Way exs
+**Learn Python the Hard Way** exs   
+The third edition
